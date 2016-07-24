@@ -1,8 +1,12 @@
-# Intro
+# Adversarial Examples in the Physical World
 
-* Predictive or Supervised: learn a mappping from inputs x to outputs u, given a labeled set of input-output paris (the training set).
-	- The training input x_i is called features, attributes, covariates.
-	- If y_i assumes a value from a finite set, it's called categorical or nominal, and the problem is classification or pattern recognition. If y_i us real-valued scalar, it is regression.
+## Kurakin, Goodfellow, Bengio
+http://arxiv.org/pdf/1607.02533v1.pdf
 
-* Descriptive or unsupervised learning: find patterns in the data (knowledge discovery). c
+* An adversarial example is a sample of input data which has been modified
+very slightly in a way that is intended to cause a machine learning classifier
+to misclassify it.
 
+* Adversarial examples pose security concerns because they could be
+used to perform an attack on machine learning systems, even if the adversary has
+no access to the underlying model
