@@ -48,15 +48,16 @@ Run the notebook with:
 
 ```shell
 $ cd caffe/examples
-$ jupyter notebook --ip=0.0.0.0 --port=8888  dream.ipynb --no-browser &
-$ disown <pid>
+$ jupyter notebook --port=8888  dream.ipynb --no-browser &
 ```
 
 Open it in your browser with the instance's IP and port 8888. If this does not work, try to make a tunnel:
 
 ```shell
-$ ssh -i <pem_file> -N -L localhost:8888:0.0.0.0:8888 ubuntu@<aws_pub_ip_or_dns>
+$ ssh -i <pem_file> -N -f -L localhost:8888:localhost:8888 ubuntu@<aws_pub_ip_or_dns>
 ```
+
+Note: add your AWS key to your ```~/.ssh/config``` file to avoid having to type it in all the time.
 
 
 ## Running it in a Dockerfile
