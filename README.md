@@ -1,6 +1,6 @@
 # Machine Learning Resources
 
-
+Just a place where I dump ML+DL+AI stuff.
 
 ## Online courses:
 
@@ -12,10 +12,6 @@
 
 ## Resources:
 
-* Check [papers](https://github.com/bt3gl/Machine-Learning-Resources/tree/master/Papers) folder.
-* Check [talks](https://github.com/bt3gl/Machine-Learning-Resources/tree/master/Talks) folder.
-* Check [docker images](https://github.com/bt3gl/Machine-Learning-Resources/tree/master/Code/Docker_Images) folder.
-* Check [ipython notebooks](https://github.com/bt3gl/Machine-Learning-Resources/tree/master/Notebooks) folder.
 * Check [my blog](http://bt3gl.github.io/) :).
 * Feedly with [list of blogs to follow](https://raw.githubusercontent.com/bt3gl/Machine-Learning-Resources/master/ml_ai_feedly.opml).
 

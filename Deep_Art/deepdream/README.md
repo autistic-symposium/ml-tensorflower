@@ -21,7 +21,7 @@ $ scp -i <pem_file> <files_to_be_copied> ubuntu@<aws_pub_ip_or_dns>P
 
 ### Checking the Instance
 
-* The root directory is only 12GB, and only ~ 3GB of that is free. 
+* The root directory is only 12GB, and only ~3GB of that is free. 
 
 * There should be a 60GB /mnt directory that you can use to put your data, model checkpoints, models etc. Remember that the /mnt directory won’t be persistent across reboots/terminations.
 
@@ -58,6 +58,7 @@ $ ssh -i <pem_file> -N -f -L localhost:8888:localhost:8888 ubuntu@<aws_pub_ip_or
 ```
 
 Note: add your AWS key to your ```~/.ssh/config``` file to avoid having to type it in all the time.
+Note 2: kill the process later, finding it with ```ps aux | grep localhost:8888```.
 
 
 ## Running it in a Dockerfile
