@@ -82,4 +82,6 @@ Another option is to check out [bat-country](https://github.com/jrosebr1/bat-cou
 ## References
 
 * Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
+* [Clouddream](https://github.com/VISIONAI/clouddream).
+* [CNN-VIS](https://github.com/jcjohnson/cnn-vis).
 
