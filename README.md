@@ -1,35 +1,51 @@
-# Machine Learning Resources
+# Resources for Artificial Inteligence, Machine Learning, and Deep Learning
 
-Just a place where I dump ML+DL+AI stuff.
-
+Fun.
 
 # Learning
 
-## Online courses:
+## News
 
-* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* [Stanford's Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-* [Stanford's Machine Learning](http://cs229.stanford.edu/)
-* [NVIDIA Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
-
-
-## Resources:
-
-* Check [my blog](http://bt3gl.github.io/) :).
 * Feedly with [list of blogs to follow](https://raw.githubusercontent.com/bt3gl/Machine-Learning-Resources/master/ml_ai_feedly.opml).
+* Check [my blog](http://bt3gl.github.io/) :).
 * [CreativeAI](http://www.creativeai.net/).
 * [Deep Learning weekly](http://www.deeplearningweekly.com/).
 
 
-## Books
+---
 
-* [Multiple View Geometry in CV](https://www.goodreads.com/book/show/18938711-multiple-view-geometry-in-computer-vision).
+## Machine Learning in General
 
-## Fun:
+* [Stanford's Machine Learning](http://cs229.stanford.edu/)
+
+
+### Fun:
 
 * [LossFunctions.tumblr](http://lossfunctions.tumblr.com/).
 
+---
 
+## Deep Learning
+
+### Reinforcement Learning
+
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+### ConvNets
+
+* [Stanford's Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+### Hardware
+
+* [NVIDIA Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
+
+
+### Computer Vision
+
+* [Multiple View Geometry in CV](https://www.goodreads.com/book/show/18938711-multiple-view-geometry-in-computer-vision).
+
+
+----
 
 # Working
 
