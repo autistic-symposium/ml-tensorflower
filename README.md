@@ -4,11 +4,10 @@ Fun.
 
 # Learning
 
-## News
+## Getting the News
 
 * Feedly with [list of blogs to follow](https://raw.githubusercontent.com/bt3gl/Machine-Learning-Resources/master/ml_ai_feedly.opml).
 * Check [my blog](http://bt3gl.github.io/) :).
-* [CreativeAI](http://www.creativeai.net/).
 * [Deep Learning weekly](http://www.deeplearningweekly.com/).
 
 
@@ -22,10 +21,12 @@ Fun.
 ### Fun:
 
 * [LossFunctions.tumblr](http://lossfunctions.tumblr.com/).
+* [CreativeAI](http://www.creativeai.net/).
 
 ---
 
 ## Deep Learning
+
 
 ### Reinforcement Learning
 
@@ -34,6 +35,7 @@ Fun.
 ### ConvNets
 
 * [Stanford's Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [The 9 CNN Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html).
 
 ### Hardware
 
