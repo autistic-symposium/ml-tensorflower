@@ -15,11 +15,13 @@ Fun.
 
 ## Machine Learning in General
 
-* [Stanford's Machine Learning](http://cs229.stanford.edu/)
+* [Stanford's Machine Learning Course](http://cs229.stanford.edu/)
+* [A Chart of Neural Networks](http://www.asimovinstitute.org/neural-network-zoo/).
 
 
 ### Fun:
 
+* [Machine Learning for Artists](http://ml4a.github.io/index/).
 * [LossFunctions.tumblr](http://lossfunctions.tumblr.com/).
 * [CreativeAI](http://www.creativeai.net/).
 
