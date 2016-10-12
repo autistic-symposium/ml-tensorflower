@@ -9,6 +9,16 @@ $ apt-get install build-essential python3-dev
 $ pip install jupyter
 ```
 
+### Running
+
+On the notebook directory:
+
+```shell
+$ jupyter notebook
+```
+
+
+
 
 ### Basics
 
