@@ -1,8 +1,6 @@
-# Resources for Artificial Inteligence, Machine Learning, and Deep Learning
+# 🍓 My Resources for AI, ML, and DNN 🍓
 
-Fun.
-
-# Learning
+## Learning
 
 ## Getting the News
 
@@ -10,8 +8,6 @@ Fun.
 * Check [my blog](http://bt3gl.github.io/) :).
 * [Deep Learning weekly](http://www.deeplearningweekly.com/).
 
-
----
 
 ## Machine Learning in General
 
@@ -25,7 +21,7 @@ Fun.
 * [LossFunctions.tumblr](http://lossfunctions.tumblr.com/).
 * [CreativeAI](http://www.creativeai.net/).
 
----
+
 
 ## Deep Learning
 
@@ -49,10 +45,9 @@ Fun.
 * [Multiple View Geometry in CV](https://www.goodreads.com/book/show/18938711-multiple-view-geometry-in-computer-vision).
 
 
-----
 
-# Working
+## Working
 
-## Benchmarkers
+### Benchmarkers
 
 * [DeepBench](https://github.com/baidu-research/DeepBench).
