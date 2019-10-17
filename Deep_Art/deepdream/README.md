@@ -1,6 +1,6 @@
 # Deep Dream
 
-## Running it at AWS
+## Running it in AWS
 
 Create an AWS's ``` g2.2xlarge``` instance with the AMI [```cs231n_caffe_torch7_keras_lasagne_v2```](http://cs231n.github.io/aws-tutorial/), AMI ID: ```ami-125b2c72```, in the ```us-west-1 region```. 
     * It cointains Caffe, Torch7, Theano, Keras and Lasagne are pre-installed. 
