@@ -1,5 +1,8 @@
 # Resources for Machine Learning
 
+
+## Tools
+
 * [Tensorflow](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow).
 * [Caffe](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe).
 * [Talks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Talks).
@@ -17,6 +20,7 @@
 ### Courses
 
 * [Stanford's Machine Learning Course](http://cs229.stanford.edu/)
+* [Google's Developer Machine Learning Course](https://developers.google.com/machine-learning)
 
 
 ## Deep Learning
@@ -30,10 +34,3 @@
 * [DeepBench](https://github.com/baidu-research/DeepBench).
 
 
-
-----
-
-
-## License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). When making a reference to my work, please use my [website](http://bt3gl.github.io/index.html).
