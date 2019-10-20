@@ -1,29 +1,25 @@
 # Resources for Machine Learning
 
 
-## Tools
+## In this Repositoryy
 
-* [Tensorflow](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow).
-* [Caffe](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe).
-* [Talks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Talks).
-* [Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks).
-* [Docker images](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Docker_Images).
-* [Numpy](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy).
+* [Tensorflow](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow): examples in TF.
+* [Caffe](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe): examples in Caffe.
+* [DeepArt](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): deep learning generated art.
+* [ML Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks): jupyter notebooks with ML examples.
+* [Numpy examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): some snippetes in Numpy.
 
-
-
----- 
 
 ## Learning
 
 
-### Courses
+### Introductory Courses
 
 * [Stanford's Machine Learning Course](http://cs229.stanford.edu/)
 * [Google's Developer Machine Learning Course](https://developers.google.com/machine-learning)
 
 
-## Deep Learning
+### Deep Learning
 
 
 * [A Chart of Neural Networks](http://www.asimovinstitute.org/neural-network-zoo/).
