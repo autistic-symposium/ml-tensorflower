@@ -3,8 +3,8 @@
 
 ## In this Repositoryy
 
-* [Tensorflow](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow): examples in TF.
-* [Caffe](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe): examples in Caffe.
+* [Tensorflow_examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow): examples in TF.
+* [Caffe_examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe): examples in Caffe.
 * [DeepArt](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): deep learning generated art.
 * [ML Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks): jupyter notebooks with ML examples.
 * [Numpy examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): some snippetes in Numpy.
