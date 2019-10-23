@@ -1,7 +1,7 @@
-# Resources for Machine Learning
+# Resources for Machine Learning & Deep Learning
 
 
-## In this Repositoryy
+## In this Repository
 
 * [Tensorflow_examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow): examples in TF.
 * [Caffe_examples](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe): examples in Caffe.
@@ -29,8 +29,11 @@
 * [NVIDIA Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 * [DeepBench](https://github.com/baidu-research/DeepBench).
 
+#### Deep Learning Applications
 
-### Tools
+* [Deep Fake source code](https://github.com/deepfakes/faceswap/).
+
+#### Deep Learning Tools
 
 * [Tensorflow plaground](http://playground.tensorflow.org).
 
