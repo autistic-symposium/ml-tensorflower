@@ -14,25 +14,27 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * **Load**: processed data is transported to a final destination.
 
 
----
-
-## Learning References
-
-### Courses and Lists
+## Tutorials
 
 * [Data science resources](https://github.com/davidyakobovitch/data_science_resources).
 * [Lorte data pipelining](https://github.com/instacart/lore).
 * [Incubator Airflow data pipelining](https://github.com/apache/incubator-airflow)
-* [Udemy's Airflow for Beginners](https://www.udemy.com/airflow-basic-for-beginners/).
 * [Awesome Airflow Resources](https://github.com/jghoman/awesome-apache-airflow).
 * [Airflow in Kubernetes](https://github.com/rolanddb/airflow-on-kubernetes).
 * [Astronomer: Airflow as a Service](https://github.com/astronomer/astronomer).
 * [Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
-* [Awesome Scalability: a lot of articles and resources on the subject](https://github.com/binhnguyennus/awesome-scalability).
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability).
+
+## MOOCs
+
 * [Coursera's Big Data Pipeline course](https://www.coursera.org/lecture/big-data-integration-processing/big-data-processing-pipelines-c4Wyd).
+* [Udemy's Airflow for Beginners](https://www.udemy.com/airflow-basic-for-beginners/).
+
+## Talks
+
 * [Industrial Machine Learning Talk](https://www.youtube.com/watch?v=3JYDT8lap5U).
 
-#### Enterprise Solutions
+## Enterprise Solutions
 
 * [Netflix data pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905).
 * [Netlix data videos](https://www.youtube.com/channel/UC00QATOrSH4K2uOljTnnaKw).
