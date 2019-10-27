@@ -1,7 +1,10 @@
 # Curated Resources on ETL, Machine Learning, and ML Pipelines
 
 ```
-The morale of this repository is the fact that Machine learning involves tasks that include data sourcing, data ingestion, data transformation, pre-processing data for use in training, training a model and hosting the model. 
+The morale of this repository is to cover resources for deploying Machine learning
+in production environments, a task that includes data sourcing, data ingestion, data 
+transformation, pre-processing data for use in training, training a model, and hosting 
+the model. 
 ```
 
 Three conceptual steps are how most data pipelines are designed and structured:
