@@ -14,25 +14,28 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * **Load**: processed data is transported to a final destination.
 
 
-## Tutorials
+## Tools & Code Samples
 
 * [Data science resources](https://github.com/davidyakobovitch/data_science_resources).
-* [Lorte data pipelining](https://github.com/instacart/lore).
 * [Incubator Airflow data pipelining](https://github.com/apache/incubator-airflow)
 * [Awesome Airflow Resources](https://github.com/jghoman/awesome-apache-airflow).
 * [Airflow in Kubernetes](https://github.com/rolanddb/airflow-on-kubernetes).
+* [Lorte data pipelining](https://github.com/instacart/lore).
 * [Astronomer: Airflow as a Service](https://github.com/astronomer/astronomer).
-* [Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability).
+* [AWS Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
 
 ## MOOCs
 
 * [Coursera's Big Data Pipeline course](https://www.coursera.org/lecture/big-data-integration-processing/big-data-processing-pipelines-c4Wyd).
 * [Udemy's Airflow for Beginners](https://www.udemy.com/airflow-basic-for-beginners/).
 
-## Talks
 
-* [Industrial Machine Learning Talk](https://www.youtube.com/watch?v=3JYDT8lap5U).
+## Tutorials & Articles
+
+#### 2019
+
+* [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html).
+
 
 ## Enterprise Solutions
 
@@ -57,6 +60,9 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * [Databrick data pipeline](https://databricks.com/blog/2017/03/31/delivering-personalized-shopping-experience-apache-spark-databricks.html).
 
 
+## Talks
+
+* [Industrial Machine Learning Talk](https://www.youtube.com/watch?v=3JYDT8lap5U).
 
 
 
