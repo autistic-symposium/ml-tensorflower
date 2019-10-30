@@ -1,12 +1,12 @@
 
 ## Airflow
 
-[Apache Airflow](https://github.com/apache/airflow) was a tool [developed by Airbnb in 2014 and later open-sourced](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8). It is a platform to programmatically author, schedule, and monitor workflows. When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
+* [Apache Airflow](https://github.com/apache/airflow) was a tool [developed by Airbnb in 2014 and later open-sourced](https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8). It is a platform to programmatically author, schedule, and monitor workflows. When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
 
-You can use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
+* You can use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
 
 
-Here is [a very simple toy example of an Airflow job](https://gist.github.com/robert8138/c6e492d00cd7b7e7626670ba2ed32e6a) that simply prints the date in bash every day after waiting for one second to pass, after the execution date is reached:
+* Here is [a very simple toy example of an Airflow job](https://gist.github.com/robert8138/c6e492d00cd7b7e7626670ba2ed32e6a) that simply prints the date in bash every day after waiting for one second to pass, after the execution date is reached:
 
 ```python
 
