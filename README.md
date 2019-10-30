@@ -17,16 +17,25 @@ Three conceptual steps are how most data pipelines are designed and structured:
 ## Tools & Code Samples
 
 * [Data science resources](https://github.com/davidyakobovitch/data_science_resources).
+* [AWS Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
+
+#### Airflow
+
 * [Incubator Airflow data pipelining](https://github.com/apache/incubator-airflow)
 * [Awesome Airflow Resources](https://github.com/jghoman/awesome-apache-airflow).
 * [Airflow in Kubernetes](https://github.com/rolanddb/airflow-on-kubernetes).
-* [Lorte data pipelining](https://github.com/instacart/lore).
 * [Astronomer: Airflow as a Service](https://github.com/astronomer/astronomer).
-* [AWS Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
+
+#### Lorte
+
+* [Lorte data pipelining](https://github.com/instacart/lore).
 
 ## MOOCs
 
+#### General Pipelines
 * [Coursera's Big Data Pipeline course](https://www.coursera.org/lecture/big-data-integration-processing/big-data-processing-pipelines-c4Wyd).
+
+#### Airflow
 * [Udemy's Airflow for Beginners](https://www.udemy.com/airflow-basic-for-beginners/).
 
 
