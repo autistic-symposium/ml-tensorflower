@@ -14,39 +14,38 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * **Load**: processed data is transported to a final destination.
 
 
-## Tools & Code Samples
+# Subresources
+
+* [Deep Learning](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/deep_learning_resources.md).
+* [Airflow](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
+
+
+# External Resources
+
+### Tools & Code Samples
 
 * [Data science resources](https://github.com/davidyakobovitch/data_science_resources).
 * [AWS Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
 
-#### Airflow
 
-* [Incubator Airflow data pipelining](https://github.com/apache/incubator-airflow)
-* [Awesome Airflow Resources](https://github.com/jghoman/awesome-apache-airflow).
-* [Airflow in Kubernetes](https://github.com/rolanddb/airflow-on-kubernetes).
-* [Astronomer: Airflow as a Service](https://github.com/astronomer/astronomer).
-
-#### Lorte
+### Lorte
 
 * [Lorte data pipelining](https://github.com/instacart/lore).
 
-## MOOCs
+### MOOCs
 
 #### General Pipelines
 * [Coursera's Big Data Pipeline course](https://www.coursera.org/lecture/big-data-integration-processing/big-data-processing-pipelines-c4Wyd).
 
-#### Airflow
-* [Udemy's Airflow for Beginners](https://www.udemy.com/airflow-basic-for-beginners/).
 
-
-## Tutorials & Articles
+### Tutorials & Articles
 
 #### 2019
 
 * [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html).
 
 
-## Enterprise Solutions
+### Enterprise Solutions
 
 * [Netflix data pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905).
 * [Netlix data videos](https://www.youtube.com/channel/UC00QATOrSH4K2uOljTnnaKw).
@@ -69,7 +68,7 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * [Databrick data pipeline](https://databricks.com/blog/2017/03/31/delivering-personalized-shopping-experience-apache-spark-databricks.html).
 
 
-## Talks
+### Talks
 
 * [Industrial Machine Learning Talk](https://www.youtube.com/watch?v=3JYDT8lap5U).
 
