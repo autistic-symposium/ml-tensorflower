@@ -1,7 +1,7 @@
-# Curated Resources on ETL, Machine Learning, and ML Pipelines
+# ETL, ML, and ML Pipelines
 
 ```
-The morale of this repository is to cover resources for deploying Machine learning
+In this repository we cover resources for deploying Machine learning
 in production environments, a task that includes data sourcing, data ingestion, data 
 transformation, pre-processing data for use in training, training a model, and hosting 
 the model. 
