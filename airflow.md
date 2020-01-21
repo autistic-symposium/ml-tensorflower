@@ -94,3 +94,11 @@ class AddMyTask(luigi.Task):
 | sync tasks to workers                    | yes                   | no                     |
 | scheduling                            | yes                   | no                     |
 
+---
+## Tools
+
+
+* [Incubator Airflow data pipelining](https://github.com/apache/incubator-airflow)
+* [Awesome Airflow Resources](https://github.com/jghoman/awesome-apache-airflow).
+* [Airflow in Kubernetes](https://github.com/rolanddb/airflow-on-kubernetes).
+* [Astronomer: Airflow as a Service](https://github.com/astronomer/astronomer).
