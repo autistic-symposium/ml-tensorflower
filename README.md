@@ -1,4 +1,4 @@
-# ETL, ML, and ML Pipelines
+# ETL, ML, ML Pipelines
 
 ```
 In this repository we cover resources for deploying Machine learning
