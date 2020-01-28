@@ -14,7 +14,7 @@ Three conceptual steps are how most data pipelines are designed and structured:
 * **Load**: processed data is transported to a final destination.
 
 
-# Subresources
+# Resources in this repository
 
 * [Deep Learning](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/deep_learning_resources.md).
 * [Airflow](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
