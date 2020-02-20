@@ -1,5 +1,9 @@
 # Deep Learning Resources
 
+## Courses
+
+* [Andrew Ng's deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
+
 
 ## Articles
 
