@@ -1,4 +1,4 @@
-# ETL, ML, and ML Pipelines
+# Machine Learning Pipelines
 
 ```
 In this repository we cover resources for deploying Machine learning
@@ -7,18 +7,17 @@ transformation, pre-processing data for use in training, training a model, and h
 the model. 
 ```
 
-Three conceptual steps are how most data pipelines are designed and structured:
-
-* **Extract**: sensors wait for upstream data sources.
-* **Transform**: business logic is applied (e.g. filtering, grouping, and aggregation to translate raw data into analysis-ready datasets).
-* **Load**: processed data is transported to a final destination.
-
-
 # Resources in this repository
 
+### Machine Learning Science
+
 * [Deep Learning](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/deep_learning_resources.md).
+
+### Machine Learning Infrastructure
+
 * [Airflow](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
 
+-----
 
 # External Resources
 
