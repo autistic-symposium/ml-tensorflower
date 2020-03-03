@@ -1,4 +1,4 @@
-# Machine Learning Pipelines
+# Curated Machine Learning 
 
 ```
 In this repository we cover resources for deploying Machine learning
