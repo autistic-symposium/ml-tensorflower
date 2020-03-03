@@ -1,5 +1,9 @@
 # Data Engineering
 
+### Articles
+
+* [Machine Learning System Design](https://medium.com/@ricomeinl/machine-learning-system-design-f2f4018f2f8).
+
 ### Tools
 
 * [Airflow resources](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
