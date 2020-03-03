@@ -14,7 +14,7 @@
 ## Learning Resources
 
 
-### Machine Learning Courses
+#### Machine Learning Courses
 
 * [Stanford's Machine Learning Course](http://cs229.stanford.edu/).
 * [Google's Developer Machine Learning Course](https://developers.google.com/machine-learning).
@@ -22,7 +22,7 @@
 
 
 
-### Deep Learning Courses
+#### Deep Learning Courses
 
 * [Andrew Ng's deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
 * [A Chart of Neural Networks](http://www.asimovinstitute.org/neural-network-zoo/).
@@ -34,7 +34,7 @@
 * [Deep Fake source code](https://github.com/deepfakes/faceswap/).
 
 
-### Books
+#### Books
 * [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/).
 
 ----
@@ -51,11 +51,5 @@
 ## Articles
 
 * [MIT Deep Learning Basics](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0).
-
-
-
-
-## Lectures
-
 
 
