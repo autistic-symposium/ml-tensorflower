@@ -9,7 +9,7 @@ the model.
 
 * [Machine Learning resources](https://github.com/bt3gl/Curated_ETL_and_ML_Pipelines/tree/master/machine_learning_examples).
 * [Data Engineering resources](https://github.com/bt3gl/Curated_ETL_and_ML_Pipelines/blob/master/data_engineering.md).
-* [Airflow resources](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
+
 
 
 ---
