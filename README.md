@@ -1,5 +1,7 @@
 # Curated Machine Learning and Data Engineering
 
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome_Entrepreneur)
+
 ```
 In this repository we cover resources for deploying Machine learning
 in production environments, a task that includes data sourcing, data ingestion, data 
