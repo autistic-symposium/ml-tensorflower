@@ -13,6 +13,11 @@
 
 ## Learning Resources
 
+#### Videos
+
+* [Energy-based Approaches to Representation Learning - Yann LeCun](https://www.youtube.com/watch?v=m17B-cXcZFI&amp=&t=524s).
+
+
 
 #### Machine Learning Courses
 
