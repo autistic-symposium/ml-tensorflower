@@ -1,10 +1,9 @@
 # 🤖 [Scrath Space]  Machine Learning & Deep Learning projects and resources
 
 
-* [My ML Jupyter notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): lots of experiments
+* [ML Notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): jupyter notebooks with ML examples
 * [Tensorflow](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/tensorflow_examples): learning examples
 * [DeepArt](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/deep_art): deep learning generated art
-* [ML Notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): jupyter notebooks with ML examples
 * [Numpy](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/numpy_examples): my code and examples using Numpy
 * [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering): resources for deployment
 
