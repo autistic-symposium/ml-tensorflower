@@ -6,8 +6,7 @@
 * [DeepArt](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/deep_art): deep learning generated art
 * [ML Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks): jupyter notebooks with ML examples
 * [Numpy](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/numpy_examples): my code and examples using Numpy
-* [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering)
-* [Dockerfiles](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/dockerfiles)
+* [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering: resources for deployment
 
 
 
