@@ -6,24 +6,6 @@
 * [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html).
 
 
-### Courses
-
-* [Coursera's Big Data Pipeline course](https://www.coursera.org/lecture/big-data-integration-processing/big-data-processing-pipelines-c4Wyd).
-
-
-### Tools
-
-* [Airflow resources](https://github.com/bt3gl/Curated_ETL-and-ML-Pipelines/blob/master/airflow.md).
-* [Data science resources](https://github.com/davidyakobovitch/data_science_resources).
-* [AWS Data pipeline samples](https://github.com/aws-samples/data-pipeline-samples/tree/master/samples).
-* [Lorte data pipelining](https://github.com/instacart/lore).
-
-
-### Videos
-
-* [Industrial Machine Learning Talk](https://www.youtube.com/watch?v=3JYDT8lap5U).
-
-
 
 ### Enterprise Solutions
 
