@@ -1,13 +1,13 @@
 # 🤖 [Scrath Space]  Machine Learning & Deep Learning projects and resources
 
 
-
-* [Tensorflow](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/TensorFlow): examples in TF.
-* [Caffe](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Caffe): examples in Caffe.
-* [DeepArt](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): deep learning generated art.
-* [ML Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks): jupyter notebooks with ML examples.
-* [Numpy](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Numpy): some snippets in Numpy.
-* [Airflow]()
+* [My ML Jupyter notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): lots of experiments
+* [Tensorflow](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/tensorflow_examples): learning examples
+* [DeepArt](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/deep_art): deep learning generated art
+* [ML Notebooks](https://github.com/bt3gl/Resources-Machine_Learning/tree/master/Notebooks): jupyter notebooks with ML examples
+* [Numpy](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/numpy_examples): my code and examples using Numpy
+* [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering)
+* [Dockerfiles](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/dockerfiles)
 
 
 
