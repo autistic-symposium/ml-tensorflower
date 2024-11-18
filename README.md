@@ -1,53 +1,39 @@
-# 🍓 My Resources for AI, ML, and DNN 🍓
+## tensorflow for deep learning
 
-## Learning
+<br>
 
-## Getting the News
+### 👾 my old ml notebooks and tensorflow/numpy small projects:
 
-* Feedly with [list of blogs to follow](https://raw.githubusercontent.com/bt3gl/Machine-Learning-Resources/master/ml_ai_feedly.opml).
-* Check [my blog](http://bt3gl.github.io/) :).
-* [Deep Learning weekly](http://www.deeplearningweekly.com/).
+<br>
 
+* **[ml notebooks](Notebooks)**: my jupyter notebooks with ml models
+* **[tensorflow examples](TensorFlow)**: tensorflow learning examples
+* **[caffe](Caffee)**: an example using caffe library on docker container
+* **[deep art](Deep_Art)**: my deep learning generated art models
+* **[ml numpy](Numpy)**: my code and examples using numpy
 
-## Machine Learning in General
-
-* [Stanford's Machine Learning Course](http://cs229.stanford.edu/)
-* [A Chart of Neural Networks](http://www.asimovinstitute.org/neural-network-zoo/).
-
-
-### Fun:
-
-* [Machine Learning for Artists](http://ml4a.github.io/index/).
-* [LossFunctions.tumblr](http://lossfunctions.tumblr.com/).
-* [CreativeAI](http://www.creativeai.net/).
+<br>
 
 
+---------
 
-## Deep Learning
-
-
-### Reinforcement Learning
-
-* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
-### ConvNets
-
-* [Stanford's Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-* [The 9 CNN Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html).
-
-### Hardware
-
-* [NVIDIA Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
+### cool resources
 
 
-### Computer Vision
-
-* [Multiple View Geometry in CV](https://www.goodreads.com/book/show/18938711-multiple-view-geometry-in-computer-vision).
+<br>
 
 
+* **[machine learning course, by stanford](http://cs229.stanford.edu/)**
+* **[cnn for visual recognition, by stanford](http://cs231n.stanford.edu/)**
+* **[developer ml course, by google](https://developers.google.com/machine-learning)**
+* **[tensorflow courses, by google](https://www.tensorflow.org/)**
+* **[deep learning basics, by mit](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0)**
+* **[a chart of neural networks, by asimov institute](http://www.asimovinstitute.org/neural-network-zoo/)**
+* **[course on reinforcement learning, by ucl](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)**
+* **[plaground, by tensorflow](http://playground.tensorflow.org)**
+* **[deep learning course, by nvidia](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)**
+* **[energy-based approaches to representation learning, by y. lecun](https://www.youtube.com/watch?v=m17B-cXcZFI&amp=&t=524s)**
+* **[deep learning lectures, by lex fridman](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)**
+* **[deeplearning.ai, by andrew ng](https://www.deeplearning.ai/deep-learning-specialization/)**
+* **[deep learning, by i. goodfellow et al.](http://www.deeplearningbook.org/)**
 
-## Working
-
-### Benchmarkers
-
-* [DeepBench](https://github.com/baidu-research/DeepBench).
