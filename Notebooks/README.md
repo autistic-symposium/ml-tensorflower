@@ -1,25 +1,38 @@
-## Jupyter Notebooks
+## my old ml jupyter notebooks
 
-### Installing
+<br>
 
-Install any dependences for [Jupyter](http://jupyter.readthedocs.io/en/latest/install.html):
+
+#### 👾 **[my deep dreams (with caffe) adapted, on notebook.community](https://notebook.community/bt3gl/Machine-Learning-Resources/machine_learning_examples/deep_art/deepdream/examples/dream)**
+
+<br>
+
+---
+
+### installing and running these notebooks
+
+
+<br>
+
+
+install any dependences for [jupyter](http://jupyter.readthedocs.io/en/latest/install.html). for example, on a debian-based linux box:
+
+<br>
 
 ```shell
-$ apt-get install build-essential python3-dev
-$ pip install jupyter
+apt-get install build-essential python3-dev
+pip install jupyter
 ```
 
-### Running
+<br>
 
-On the notebook directory:
+on the notebook directory, simply run:
+
+<br>
 
 ```shell
-$ jupyter notebook
+jupyter notebook
 ```
 
 
 
-
-### Basics
-
-* A notebook is made up of a number of cells with Python code. You can execute a cell by clicking on it and pressing ```Shift-Enter```.
